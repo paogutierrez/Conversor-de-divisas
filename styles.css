@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500&family=Noto+Sans+Mono:wght@600;900&family=Noto+Serif:ital,wght@1,700&family=Oswald:wght@300;400&family=Roboto+Mono:wght@300&family=Space+Grotesk:wght@300&display=swap');
+
+p{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    padding:10px;
+    color: white;
+    background:rgb(24, 24, 216);
+    border:1px solid black;
+}
+img{
+    width: 200px;
+    padding:15px;
+}
+.imagen{
+    text-align:center;
+}
+form{
+    text-align: center;
+}
+.cantidaddinero{
+    padding:10px;
+    font-family:'Space Grotesk', sans-serif;;
+}
+.origen{
+ padding:5px;
+ font-family: 'Space Grotesk', sans-serif;
+}
+.convertir{
+    padding:5px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.calcular{
+    padding: 2px;
+    border: 1px solid black;
+    background:rgb(24, 24, 216);
+    font-family: 'Space Grotesk', sans-serif;
+    color: white;
+    cursor: pointer;
+    margin:15px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px   
+}
+
+#mostrar{
+    text-align: center;
+    padding:15px;
+    color: black;
+    width:70%;
+    margin:100px;
+    margin-top:25px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: smaller;
+}
+
+#inputResultado{
+    background-color: none;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(24, 24, 216);
+    color: white;
+    padding:20px;
+    text-align: center;
+}
+.choose{
+    margin-top:50px;
+    display:inline;
+}
